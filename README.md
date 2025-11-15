@@ -159,5 +159,5 @@ Feel free to:
 ## ❤️ **6. Author**
 
 **Srinivas**
-Iris Flower Classification – ML Project
-Built using Python, Scikit-learn, and Streamlit
+* Iris Flower Classification – ML Project
+* Built using Python, Scikit-learn, and Streamlit
