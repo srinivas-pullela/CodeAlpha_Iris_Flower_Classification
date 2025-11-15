@@ -97,6 +97,8 @@ SepalWidth: 3.5
 PetalLength: 1.4
 PetalWidth: 0.2
 ```
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/351f7f2d-a584-46de-b59b-9fa33962012f" />
+
 
 ### ✔ Versicolor
 
@@ -106,6 +108,8 @@ SepalWidth: 2.9
 PetalLength: 4.5
 PetalWidth: 1.5
 ```
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/64ab3514-6fad-46d4-a0f2-10258a4a201f" />
+
 
 ### ✔ Virginica
 
@@ -115,6 +119,8 @@ SepalWidth: 3.0
 PetalLength: 5.8
 PetalWidth: 2.2
 ```
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/21bbfa31-caf9-49e0-8d08-5498af0d9917" />
+
 
 ---
 
