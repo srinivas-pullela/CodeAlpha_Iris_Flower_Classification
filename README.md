@@ -1,5 +1,8 @@
 # 🌸 **Iris Flower Classification – Machine Learning Project**
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a820f074-9c94-4e1c-a380-fa1da472a27b" />
+
+
 This project is an end-to-end Machine Learning application that classifies **Iris flower species** based on four input features:
 
 * **Sepal Length (cm)**
